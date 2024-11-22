@@ -1,4 +1,5 @@
 import 'package:belajar_dart_library/belajar_dart_library.dart';
+import 'package:belajar_dart_library/src/customer.dart';
 // import 'package:belajar_dart_library/hello.dart';
 
 void main(){
@@ -6,5 +7,5 @@ void main(){
 
   var customer = Customer();
   var product = Product();
-  var category = Categoty();
+  var category = Category();
 }

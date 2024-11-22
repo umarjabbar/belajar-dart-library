@@ -1,5 +1,5 @@
 class Customer {}
 
-class Categoty {}
+class Category {}
 
 class Product {}
